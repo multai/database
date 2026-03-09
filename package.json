@@ -1,0 +1,24 @@
+{
+  "name": "multai-database",
+  "version": "1.0.0",
+  "description": "Database schemas for the Multi-AI universe.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/multai/database.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/multai/database/issues"
+  },
+  "homepage": "https://github.com/multai/database#readme",
+  "dependencies": {
+    "convex": "^1.32.0"
+  }
+}
