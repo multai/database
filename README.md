@@ -71,9 +71,12 @@ See [convex/schema.ts](convex/schema.ts) for the complete schema.
 ### Core Tables
 
 - `players` — Human accounts
+- `playerSessions` — Session tokens for simple auth
+- `plots` — Story/enredo catalog
+- `plotParticipants` — Which player joined which plot and role
+- `messages` — Chat/conversation history by plot
 - `characters` — Player-controlled characters
 - `sessions` — Active game sessions
-- `messages` — Chat/conversation history
 - `notifications` — Player notifications
 
 ## Sync Strategy
